@@ -1,0 +1,10 @@
+github.com
+github.io
+githubusercontent.com
+gitbook.com
+gitbooks.io
+rawgithub.com
+rawgit.com
+git.io
+githubapp.com
+github.global.ssl.fastly.net
