@@ -122,7 +122,6 @@ googlemail.com
 googleplay.com
 googleplus.com
 googlesource.com
-googlesyndication.com
 googlevideo.com
 googleweblight.com
 googlezip.net

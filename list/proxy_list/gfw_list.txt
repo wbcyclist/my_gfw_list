@@ -10,9 +10,70 @@ flickr.com
 staticflickr.com
 flickrhivemind.net
 flickriver.com
+gravatar.com
+outlook.com
+microsoft.com
+atom.io
+herokudns.com
+fastly.net
+hockeyapp.net
+inoreader.com
+fabric.io
+jetbrains.com
+openwrt.org
+bintray.com
+edgekey.net
+xmlsoft.org
+herokuapp.com
+gradle.org
+realm.io
+vimeo.com
+vimeocdn.com
+visualstudio.com
+vsassets.io
+asciiwwdc.com
+jenkins.io
+jenkins-ci.org
+osuosl.org
+sourceforge.net
 
+# pixnet
 pixnet.net
 pixnet.in
 pixnet.cc
 pimg.tw
 pixplug.in
+
+# dropbox
+dropboxstatic.com
+dropbox.com
+
+# newrelic
+newrelic.com
+olark.com
+swiftype.com
+swiftypecdn.com
+segment.com
+segment.io
+intercom.io
+intercomcdn.com
+typography.com
+nr-assets.net
+
+# stackoverflow
+stackoverflow.com
+sstatic.net
+stackexchange.com
+
+# python
+python.org
+readthedocs.io
+readthedocs.org
+
+# nodejs
+npmjs.org
+nodejs.org
+
+# ruby
+rubygems.org
+cocoapods.org

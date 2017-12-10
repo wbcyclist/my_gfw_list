@@ -2,3 +2,4 @@ twitter.com
 twimg.com
 t.co
 tapbots.com
+tapbots.net
