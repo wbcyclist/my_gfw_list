@@ -54,6 +54,8 @@ pixplug.in
 # dropbox
 dropboxstatic.com
 dropbox.com
+dropboxapi.com
+db.tt
 
 # newrelic
 newrelic.com
