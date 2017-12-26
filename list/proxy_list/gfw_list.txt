@@ -36,6 +36,13 @@ jenkins.io
 jenkins-ci.org
 osuosl.org
 sourceforge.net
+blogger.com
+disqus.com
+dwnews.com
+dwnews.net
+getpostman.com
+marketo.net
+pstmn.io
 
 # pixnet
 pixnet.net
@@ -77,3 +84,10 @@ nodejs.org
 # ruby
 rubygems.org
 cocoapods.org
+
+# cydia
+thebigboss.org
+saurik.com
+modmyi.com
+zodttd.com
+
