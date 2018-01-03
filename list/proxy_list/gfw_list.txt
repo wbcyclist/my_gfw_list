@@ -2,8 +2,14 @@
 cdninstagram.com
 instagram.com
 
-# Other
+# tumblr
 tumblr.com
+umblr.com
+txmblr.com
+spotify.com
+soundcloud.com
+
+# Other
 imgur.com
 amazonaws.com
 flickr.com
@@ -43,6 +49,8 @@ dwnews.net
 getpostman.com
 marketo.net
 pstmn.io
+ift.tt
+4shared.com
 
 # pixnet
 pixnet.net
@@ -52,10 +60,20 @@ pimg.tw
 pixplug.in
 
 # dropbox
+dropboxusercontent.com
 dropboxstatic.com
 dropbox.com
 dropboxapi.com
 db.tt
+
+# SkyDrive
+onedrive.live.com
+
+# Wordpress
+wordpress.com
+wp.com
+wordpress.org
+w.org
 
 # newrelic
 newrelic.com
@@ -92,4 +110,37 @@ thebigboss.org
 saurik.com
 modmyi.com
 zodttd.com
+
+# steam
+steampowered.com
+steamstatic.com
+steamcontent.com
+steamcommunity.com
+akamaihd.net
+
+# Reader
+feedly.com
+feedburner.com
+
+# Wikipedia
+wikimedia.org
+wikipedia.org
+wikipedia.com
+
+# OpenVPN
+openvpn.net
+
+# Tiny Url
+bit.ly
+bitly.com
+ow.ly
+
+# 500px
+500px.com
+500px.org
+typekit.net
+getsitecontrol.com
+filepicker.io
+
+
 

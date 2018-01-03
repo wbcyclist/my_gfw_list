@@ -1,6 +1,7 @@
 google.com
 gstatic.com
 googleusercontent.com
+google-cardboard.com
 gmail.com
 youtu.be
 youtube.com
