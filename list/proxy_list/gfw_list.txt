@@ -9,6 +9,10 @@ txmblr.com
 spotify.com
 soundcloud.com
 
+# firefox
+firefox.com
+mozilla.org
+
 # Other
 imgur.com
 amazonaws.com
