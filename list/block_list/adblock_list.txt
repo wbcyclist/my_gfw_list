@@ -1,10 +1,11 @@
 # iqiyi
+a.ckm.iqiyi.com
 ad.m.iqiyi.com
 afp.iqiyi.com
-api.cupid.iqiyi.com
 c.uaa.iqiyi.com
 cloudpush.iqiyi.com
 cm.passport.iqiyi.com
+cupid.iqiyi.com
 emoticon.sns.iqiyi.com
 gamecenter.iqiyi.com
 hotchat-im.iqiyi.com
@@ -13,9 +14,22 @@ mbdlog.iqiyi.com
 msg.71.am
 msg.video.qiyi.com
 msg2.video.qiyi.com
-msga.cupid.iqiyi.com
 policy.video.iqiyi.com
 yuedu.iqiyi.com
+101.227.200.0/24
+101.227.200.11/32
+101.227.200.28/32
+101.227.97.240/32
+124.192.153.42/32
+
+# Hunan TV
+click.hunantv.com
+da.hunantv.com
+da.mgtv.com
+log.hunantv.com
+log.v2.hunantv.com
+res.hunantv.com
+v2.log.hunantv.com
 
 # Youku
 actives.youku.com
@@ -23,7 +37,6 @@ ad.api.3g.youku.com
 ad.api.mobile.youku.com
 ad.mobile.youku.com
 a-dxk.play.api.3g.youku.com
-atm.youku.com
 b.smartvideo.youku.com
 c.yes.youku.com
 das.api.youku.com
@@ -33,7 +46,6 @@ dl.g.youku.com
 dmapp.youku.com
 e.stat.ykimg.com
 gamex.mobile.youku.com
-guanggaoad.youku.com
 hudong.pl.youku.com
 huodong.pl.youku.com
 huodong.vip.youku.com
@@ -52,18 +64,29 @@ r.l.youku.com
 s.p.youku.com
 sdk.m.youku.com
 stat.youku.com
-statis.api.3g.youku.com
 store.tv.api.3g.youku.com
 store.xl.api.3g.youku.com
 tdrec.youku.com
 test.ott.youku.com
-test.sdk.m.youku.com
 v.l.youku.com
 val.api.youku.com
-vali.cp31.ott.cibntv.net
 wan.youku.com
 ykatr.youku.com
 ykrec.youku.com
+117.177.248.17/32
+117.177.248.41/32
+223.87.176.139/32
+223.87.176.176/32
+223.87.177.180/32
+223.87.177.182/32
+223.87.177.184/32
+223.87.177.43/32
+223.87.177.47/32
+223.87.177.80/32
+223.87.182.101/32
+223.87.182.102/32
+223.87.182.11/32
+223.87.182.52/32
 
 # letv
 api.game.letvstore.com
@@ -81,6 +104,7 @@ pro.hoye.letv.com
 pro.letv.com
 stat.letv.com
 static.app.m.letv.com
+webp2p.letv.com
 
 # Tencent Live
 aiseet.aa.atianqi.com
@@ -117,9 +141,7 @@ ehg-youtube.hitbox.com
 m-78.jp
 nichibenren.or.jp
 nicorette.co.kr
-ssl-youtube.2cnt.net
 youtube.112.2o7.net
-youtube.2cnt.net
 
 # Sohu
 888.tv.sohu.com
@@ -201,6 +223,9 @@ static.googleadsserving.cn
 tpc.googlesyndication.com
 www.googleadservices.com
 
+# facebook
+staticxx.facebook.com
+
 # Toutiao
 ad.toutiao.com
 d.toutiao.com
@@ -210,13 +235,135 @@ nativeapp.toutiao.com
 partner.toutiao.com
 
 # Tumblr
+31.media.tumblr.com
+92x.tumblr.com
+its-dori.tumblr.com
 tumblrprobes.cedexis.com
 tumblrreports.cedexis.com
 
 # Twitter
 ads.twitter.com
 ads-twitter.com
-analytics.twitter.com
+p.twitter.com
 scribe.twitter.com
 syndication.twitter.com
 syndication-o.twitter.com
+urls.api.twitter.com
+
+# Zhihu
+sugar.zhihu.com
+
+# Site
+deliver.ifeng.com
+hxjs.tool.hexun.com
+hxsame.hexun.com
+itv.hexun.com
+
+# JD
+ads.union.jd.com
+c-nfa.jd.com
+cps.360buy.com
+jzt.jd.com
+stat.m.jd.com
+img-x.jd.com
+
+# Meitu
+a.koudai.com
+adui.tg.meitu.com
+corp.meitu.com
+dc.meitustat.com
+gg.meitu.com
+mdc.meitustat.com
+meitubeauty.meitudata.com
+message.meitu.com
+rabbit.meitustat.com
+rabbit.tg.meitu.com
+tuiguang.meitu.com
+xiuxiu.android.dl.meitu.com
+xiuxiu.mobile.meitudata.com
+
+# Sina
+2016.sina.cn
+ad.sina.com.cn
+adbox.sina.com.cn
+adimages.sina.com.hk
+adimg.mobile.sina.cn
+adimg.uve.weibo.com
+adm.leju.sina.com.cn
+ads.sina.com
+alitui.weibo.com
+api.apps.sina.cn
+appgift.sinaapp.com
+appsupdate.sinaapp.com
+atm.sina.com
+beacon.sina.com.cn
+biz.weibo.com
+c.biz.weibo.com
+c.wcpt.biz.weibo.com
+click.uve.mobile.sina.cn
+click.uve.weibo.com
+cm.dmp.sina.cn
+contentrecommend-out.mobile.sina.cn
+count.video.sina.com.cn
+counter.sina.com.cn
+cre.dp.sina.cn
+cre.mix.sina.com.cn
+cre-dp.sina.cn
+d00.sina.com.cn
+dcads.sina.com.cn
+dl.kjava.sina.cn
+dmp.sina.cn
+dp.im.weibo.cn
+game.weibo.cn
+game.weibo.com
+gw5.push.mcp.weibo.cn
+gw6.push.mcp.weibo.cn
+img.adbox.sina.com.cn
+img.amp.ad.sina.com.cn
+int.dpool.sina.com.cn
+interest.mix.sina.com.cn
+log.interest.mix.sina.com.cn
+log.mix.sina.com.cn
+log.sina.cn
+m.beacon.sina.com.cn
+m.game.weibo.cn
+mg.games.sina.com.cn
+motu.p4p.sina.com.cn
+newspush.sinajs.cn
+oascentral.sina.com
+oascentral.sina.com.hk
+p4p.sina.com.cn
+palmnews.sina.cn
+pay.mobile.sina.cn
+pfp.sina.com.cn
+pfpip.sina.com
+promote.biz.weibo.cn
+r.dmp.sina.cn
+rm.sina.com.cn
+rs.sinajs.cn
+s.alitui.weibo.com
+s.img.mix.sina.com.cn
+sapi.sina.cn
+sax.sina.cn
+sax.sina.com.cn
+saxn.sina.com.cn
+saxs.sina.com.cn
+sbeacon.sina.com.cn
+sdkapp.mobile.sina.cn
+sdkapp.uve.weibo.com
+sdkclick.mobile.sina.cn
+slog.sina.cn
+slog.sina.com.cn
+staticadm.leju.sina.com.cn
+tjs.sjs.sinajs.cn
+trends.mobile.sina.cn
+u1.img.mobile.sina.cn
+wapwbclick.mobile.sina.cn
+wbapp.mobile.sina.cn
+wbapp.uve.weibo.com
+wbclick.mobile.sina.cn
+wbpctips.mobile.sina.cn
+widget.weibo.com
+woocall.sina.com.cn
+zc.biz.weibo.com
+zymo.mps.weibo.com

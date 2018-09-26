@@ -3,6 +3,7 @@ cdninstagram.com
 instagram.com
 
 # tumblr
+tumblr.co
 tumblr.com
 umblr.com
 txmblr.com
@@ -12,6 +13,11 @@ soundcloud.com
 # firefox
 firefox.com
 mozilla.org
+
+# reddit
+reddit.com
+redditstatic.com
+redditmedia.com
 
 # Other
 imgur.com
@@ -121,6 +127,7 @@ steamstatic.com
 steamcontent.com
 steamcommunity.com
 akamaihd.net
+fanatical.com
 
 # Reader
 feedly.com
@@ -146,5 +153,14 @@ typekit.net
 getsitecontrol.com
 filepicker.io
 
+# medium
+medium.com
 
+# Netflix
+netflix.com
+netflix.net
+nflxext.com
+nflximg.com
+nflximg.net
+nflxvideo.net
 
