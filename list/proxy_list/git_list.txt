@@ -9,6 +9,8 @@ gitbook.com
 gitbooks.io
 rawgit.com
 git.io
+gist.github.com
+www.github.com
 
 bitbucket.org
 cloudfront.net

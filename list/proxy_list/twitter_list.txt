@@ -5,3 +5,6 @@ twtlr.com
 t.co
 tapbots.com
 tapbots.net
+abs.twimg.com
+pbs.twimg.com
+ton.twimg.com
