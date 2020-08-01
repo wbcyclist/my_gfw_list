@@ -682,3 +682,16 @@ zh.greatfire.org
 greatfire.org
 pao-pao.net
 
+# figma
+s3-alpha-sig.figma.com
+s3-downtime.figma.com
+www.figma.com
+static.figma.com
+errors.figma.com
+figma.com
+images.ctfassets.net
+videos.ctfassets.net
+ctfassets.net
+
+
+
